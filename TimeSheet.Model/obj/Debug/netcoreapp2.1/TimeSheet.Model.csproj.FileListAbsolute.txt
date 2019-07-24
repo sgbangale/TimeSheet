@@ -1,0 +1,9 @@
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Model\bin\Debug\netcoreapp2.1\TimeSheet.Model.deps.json
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Model\bin\Debug\netcoreapp2.1\TimeSheet.Model.dll
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Model\bin\Debug\netcoreapp2.1\TimeSheet.Model.pdb
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Model\obj\Debug\netcoreapp2.1\TimeSheet.Model.csproj.CoreCompileInputs.cache
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Model\obj\Debug\netcoreapp2.1\TimeSheet.Model.AssemblyInfoInputs.cache
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Model\obj\Debug\netcoreapp2.1\TimeSheet.Model.AssemblyInfo.cs
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Model\obj\Debug\netcoreapp2.1\TimeSheet.Model.dll
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Model\obj\Debug\netcoreapp2.1\TimeSheet.Model.pdb
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Model\obj\Debug\netcoreapp2.1\TimeSheet.Model.csprojAssemblyReference.cache

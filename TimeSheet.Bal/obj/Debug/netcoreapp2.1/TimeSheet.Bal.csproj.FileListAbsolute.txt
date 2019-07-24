@@ -1,0 +1,8 @@
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Bal\bin\Debug\netcoreapp2.1\TimeSheet.Bal.deps.json
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Bal\bin\Debug\netcoreapp2.1\TimeSheet.Bal.dll
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Bal\bin\Debug\netcoreapp2.1\TimeSheet.Bal.pdb
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Bal\obj\Debug\netcoreapp2.1\TimeSheet.Bal.csproj.CoreCompileInputs.cache
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Bal\obj\Debug\netcoreapp2.1\TimeSheet.Bal.AssemblyInfoInputs.cache
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Bal\obj\Debug\netcoreapp2.1\TimeSheet.Bal.AssemblyInfo.cs
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Bal\obj\Debug\netcoreapp2.1\TimeSheet.Bal.dll
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Bal\obj\Debug\netcoreapp2.1\TimeSheet.Bal.pdb

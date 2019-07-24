@@ -1,0 +1,14 @@
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Test\bin\Debug\netcoreapp2.1\TimeSheet.Test.deps.json
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Test\bin\Debug\netcoreapp2.1\TimeSheet.Test.runtimeconfig.json
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Test\bin\Debug\netcoreapp2.1\TimeSheet.Test.runtimeconfig.dev.json
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Test\bin\Debug\netcoreapp2.1\TimeSheet.Test.dll
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Test\bin\Debug\netcoreapp2.1\TimeSheet.Test.pdb
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Test\obj\Debug\netcoreapp2.1\TimeSheet.Test.csprojAssemblyReference.cache
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Test\obj\Debug\netcoreapp2.1\TimeSheet.Test.csproj.CoreCompileInputs.cache
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Test\obj\Debug\netcoreapp2.1\TimeSheet.Test.AssemblyInfoInputs.cache
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Test\obj\Debug\netcoreapp2.1\TimeSheet.Test.AssemblyInfo.cs
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Test\obj\Debug\netcoreapp2.1\TimeSheet.Test.dll
+C:\Users\sbangale\source\repos\TimeSheet\TimeSheet\TimeSheet.Test\obj\Debug\netcoreapp2.1\TimeSheet.Test.pdb
